@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Telegram.Bot" Version="21.9.0" />
+	</ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\TelegramBotCarInsurance.Core\TelegramBotCarInsurance.Core.csproj" />
+		<ProjectReference Include="..\TelegramBotCarInsurance.Infrastructure\TelegramBotCarInsurance.Infrastructure.csproj" />
+	</ItemGroup>
+</Project>

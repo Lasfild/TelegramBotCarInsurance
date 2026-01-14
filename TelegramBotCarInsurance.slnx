@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TelegramBotCarInsurance.Application/TelegramBotCarInsurance.Application.csproj" />
+  <Project Path="TelegramBotCarInsurance.Core/TelegramBotCarInsurance.Core.csproj" />
+  <Project Path="TelegramBotCarInsurance.Infrastructure/TelegramBotCarInsurance.Infrastructure.csproj" />
+  <Project Path="TelegramBotCarInsurance/TelegramBotCarInsurance.csproj" />
+</Solution>

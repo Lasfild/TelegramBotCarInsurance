@@ -1,0 +1,11 @@
+# Secrets
+appsettings.json
+appsettings.*.json
+!appsettings.example.json
+
+# Build output
+bin/
+obj/
+
+# IDE
+.vs/
